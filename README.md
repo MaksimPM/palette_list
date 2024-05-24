@@ -1,4 +1,4 @@
-<h1 align="center">White Point Test</h1> 
+<h1 align="center">Palette</h1> 
   
  Основной стек проекта:
   
